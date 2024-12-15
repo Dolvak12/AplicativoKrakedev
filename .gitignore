@@ -1,0 +1,8 @@
+# Excluir la carpeta ConfiguraciónIDE
+ConfiguraciónIDE/
+
+# Excluir imágenes .png en EvidenciasDelDesarrollo
+EvidenciasDelDesarrollo/*.png
+
+# Excluir el archivo Manual.txt
+EvidenciasDelDesarrollo/Manual.txt
